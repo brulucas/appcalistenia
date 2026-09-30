@@ -10,7 +10,4 @@
   [headers.values]
     Cache-Control = "no-cache"
 
-[[redirects]]
-  from = "/.netlify/functions/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
+
